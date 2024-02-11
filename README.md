@@ -1,1 +1,3 @@
-# .github
+# RoboCivix
+
+A robot civilization sandbox.
